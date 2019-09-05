@@ -11,7 +11,7 @@ select id, foo, bar from testdata
   </head>
   <body>
 
-  <h2>Results</h2>
+  <h1>Results</h1>
   
 <c:forEach var="row" items="${rs.rows}">
     Foo ${row.foo}<br/>
