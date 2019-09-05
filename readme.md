@@ -3,7 +3,7 @@ This is a simple Java application with MySQL.
 
 # Run
 
-## Fig
+## Figure
 * `fig up -d`
 
 Then run `fig ps` to find the app port.
